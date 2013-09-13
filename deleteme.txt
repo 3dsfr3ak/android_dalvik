@@ -1,0 +1,4 @@
+Android.mk    dexdump  docs    MODULE_LICENSE_APACHE2  tests
+CleanSpec.mk  dexgen   dx      NOTICE		       tools
+dalvikvm      dexlist  hit     opcode-gen	       unit-tests
+deleteme.txt  dexopt   libdex  README.txt	       vm
